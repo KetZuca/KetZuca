@@ -4,10 +4,9 @@
 
 
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ketzuca069&show_icons=true) 
 
 
 
-
-0 troleo
 
 
