@@ -4,7 +4,7 @@
 
 
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ketzuca069&show_icons=true) 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ketzuca&show_icons=true) 
 
 
 
